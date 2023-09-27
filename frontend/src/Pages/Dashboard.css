@@ -57,3 +57,10 @@
     display: block !important; 
     text-indent: -9999px;
 }
+.logo_main{
+  height: 100px;
+  width: 120px;
+  padding-left: 10px;
+  padding-top: 5px;
+  object-fit: contain;
+}
